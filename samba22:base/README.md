@@ -120,7 +120,7 @@ umount /nmt
 
 ### Directives a practicar
 
-(HowTo-ASIX-SAMBA-part2-userShares-2016-2017.pdf)https://gitlab.com/edtasixm06/m06-aso/-/blob/main/UF1_5_samba/HowTo-ASIX-SAMBA-part2-userShares-2016-2017.pdf[]
+[HowTo-ASIX-SAMBA-part2-userShares-2016-2017.pdf](https://gitlab.com/edtasixm06/m06-aso/-/blob/main/UF1_5_samba/HowTo-ASIX-SAMBA-part2-userShares-2016-2017.pdf)
 ```
 path = /dir1/dir2/share
 comment = share description
